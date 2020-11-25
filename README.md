@@ -8,4 +8,6 @@ To run:
 4) Select input file
 5) View results in console
 
+Alternatively, you can view a demonstration in 'Video.mp4'.
+
 By Ahmed Mohamed
